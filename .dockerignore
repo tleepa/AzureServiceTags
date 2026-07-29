@@ -1,0 +1,9 @@
+# Verified from: Microsoft Learn - Tutorial: Containerize a .NET app
+**/bin/
+**/obj/
+**/.vs/
+**/.vscode/
+.git/
+.github/
+Dockerfile
+README.md
